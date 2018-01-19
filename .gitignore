@@ -1,0 +1,9 @@
+node_modules*/
+build/
+sftp-config.json
+.tmp
+.temp
+temp/
+*.zip
+*.tgz
+*.cache
