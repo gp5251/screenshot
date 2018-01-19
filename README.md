@@ -1,5 +1,5 @@
 # screenshot
-screenshot server(koa2) with [puppeteer](/GoogleChrome/puppeteer)
+screenshot server(koa2) with [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ### first install puppeteer
 > npm i puppeteer
